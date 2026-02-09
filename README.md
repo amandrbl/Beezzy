@@ -1,33 +1,24 @@
 # Beezzy 🐝
-This repository contains information about Beezzy – an IPhone and Apple Watch app made in SwiftUI, using Xcode.<br>
 
-### About
-Beezzy was designed and developed to helps teenage mothers in the process of getting back into their routine, allowing them to organize commitments and share responsibilities with their support network, thus facilitating reconciliation with their studies. 
-Beezzy works like a community of bees, where the teenage mother is portrayed as the queen, and the support network as her bees, her workers. In it, the members of the support network take on the tasks that the mother places within the app, to help her both in motherhood and in her school routine.<br>
-<br>
-Beezzy is now available on the App Store, just waiting for you to click the download button. Beezzy, a hive of affection! 💜<br>
-https://lnkd.in/dcn9wYkq<br>
-<br>
+### 💜 Sobre o aplicativo 
+- Neste repositório, você irá conhecer um pouco mais sobre o aplicativo Beezzy – um aplicativo para iPhone e AppleWatch, criado com Swift e SwiftUI, utilizando o Xcode como IDE.
+- O Beezzy foi desenvolvido para ajudar mães adolescentes no processo de retomar sua rotina, permitindo que elas organizem seus compromissos e compartilhem responsabilidades com sua rede de apoio, facilitando assim a conciliação com os estudos.
+- O Beezzy funciona como uma comunidade de abelhas, onde a mãe adolescente é representada como a rainha e a rede de apoio como suas abelhas operárias. Nele, os membros da rede de apoio assumem as tarefas que a mãe define no aplicativo, para ajudá-la tanto na maternidade quanto em sua rotina escolar.
+- Desenvolvido em equipe 
+- <a href="https://apps.apple.com/br/app/beezzy/id6746419810"><b>Disponível na App Store!</b></a>
 
-## Tools
-- Xcode
-- Figma
-- Jira
-<br>
-
-## Development Skills
+## 🛠️ Ferramentas
+- Swift
 - SwiftUI
-- Product Development
-- Project Management
-- SCRUM
-<br>
+- WatchKit
+- WatchConnectivity
+- CloudKit
+- Xcode
+- Metodologia SCRUM
+- JIRA para gestão do projeto
+- Figma
 
-## How to Run
-Prerequisites: You must have an iPhone running iOS 18 at least or Apple Watch running watchOS 10.6 at least.<br>
-1. Download it at AppStore: https://apple.co/4mKtbWr
-<br>
-
-## Screenshots
+## 📱 Telas do aplicativo
 <p align="center">
 <img alt="App Icon" width="270" height="250" src="https://github.com/user-attachments/assets/0cee4a47-94ff-4e89-be3b-28314c9ac3e8"></p>
 <br>
@@ -38,11 +29,11 @@ Prerequisites: You must have an iPhone running iOS 18 at least or Apple Watch ru
 <img alt="Project Image 4" width="250" src="https://github.com/user-attachments/assets/d9f8c1ea-d82e-4f6d-9150-c63bff2ff677"></p>
 <br>
 
-## Authors
-Amanda dos Santos Rabelo<br>
-Eduardo Câmara<br>
-Jaide Zardin<br>
-Juliana Magalhães<br>
-Leticia Lima Nascimento<br>
-Sérgio César<br>
-Taynara Vieira Nascimento<br>
+## 🤝 Equipe de Desenvolvimento
+- Amanda Rabelo (dev)
+- Eduardo Câmara (dev)
+- Jaide Zardin (dev)
+- Juliana Magalhães (dev)
+- Sérgio César (dev)
+- Leticia Lima (designer)
+- Taynara Vieira (designer)
