@@ -1,6 +1,6 @@
 # Beezzy 🐝
 
-### 💜 Sobre o aplicativo 
+## 💜 Sobre o aplicativo 
 - Neste repositório, você irá conhecer um pouco mais sobre o aplicativo Beezzy – um aplicativo para iPhone e AppleWatch, criado com Swift e SwiftUI, utilizando o Xcode como IDE.
 - O Beezzy foi desenvolvido para ajudar mães adolescentes no processo de retomar sua rotina, permitindo que elas organizem seus compromissos e compartilhem responsabilidades com sua rede de apoio, facilitando assim a conciliação com os estudos.
 - O Beezzy funciona como uma comunidade de abelhas, onde a mãe adolescente é representada como a rainha e a rede de apoio como suas abelhas operárias. Nele, os membros da rede de apoio assumem as tarefas que a mãe define no aplicativo, para ajudá-la tanto na maternidade quanto em sua rotina escolar.
